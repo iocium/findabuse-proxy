@@ -1,0 +1,6 @@
+name = "proxy-findabuse"
+type = "webpack"
+account_id = "b0d7b9f87b57470ef508f1a511093cae"
+route = "api.findabuse.email/*"
+zone_id = "3622272f744279a2ebb5ce0d9a296da4"
+vars = {UPSTREAM = "https://cfwho.com"}
